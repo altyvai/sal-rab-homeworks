@@ -1,4 +1,4 @@
-function addInCartMessage(title, price) {
+﻿function addInCartMessage(title, price) {
     let productName = title;
     let productPrice = price;
 
@@ -13,7 +13,7 @@ function addInCartMessage(title, price) {
     // добавьте в конец переменной message пробел
     // добавьте в конец переменной message текст 'теперь в корзине!'
     // выведите переменную message в консоль
-
+    // все получится! ты классная!
     // Конец решения задания №1.1.
 
     return message;
