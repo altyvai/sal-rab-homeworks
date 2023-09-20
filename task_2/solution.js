@@ -78,6 +78,7 @@ function calcInvoice({sum, discountMinSum, discountPart, shippingFreeMinSum, shi
      
 
     // прибавьте к totalSum значение shippingSum
+    //djn
 
     // создайте переменную freeShipping
     // запишите без использования if или любых других условий:
